@@ -2,6 +2,7 @@
 
 ## Example
 ```cpp
+// Set the initial size of pooled objects.
 ObjectPool pool(16);
 
 // Adding game objects
